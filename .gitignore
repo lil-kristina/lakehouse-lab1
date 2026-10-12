@@ -1,0 +1,18 @@
+﻿# Windows
+Thumbs.db
+desktop.ini
+
+# VSCode
+.vscode/
+
+# Логи Docker
+*.log
+
+# Секреты
+bootstrap.json
+
+# Docker volumes
+metabase-data/
+superset-data/
+pg-data/
+minio-data/
