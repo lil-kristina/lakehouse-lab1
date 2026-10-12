@@ -16,3 +16,6 @@ metabase-data/
 superset-data/
 pg-data/
 minio-data/
+
+metabase-plugins/
+superset/
